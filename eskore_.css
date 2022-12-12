@@ -1,0 +1,59 @@
+body{
+  background-image: url('eskor_mainfront.jpg');
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+  background-position: 200px top; 
+}
+
+.content{
+    margin: 40px 0 0 80px;
+}
+
+.content h2{
+    font-size: 50px;
+    color: black;
+}
+
+.brief{
+    width:300px;
+    margin-top: 50px;
+}
+
+.brief .head{
+    font-size: 20px;
+    padding-left: 50px;
+    margin-bottom: 6px;
+}
+
+span{
+ color: rgb(177, 7, 7);
+}
+
+.brief h2{
+    font-size: 20px;
+    padding-left: 50px ;
+}
+
+.container{
+text-align: center;  
+ 
+}
+
+ .btn a{
+ text-decoration: none;
+ font-size: 15px; 
+ color: black;
+}  
+ .btn a:hover{
+ text-decoration: none;
+ font-size: 15px; 
+ color: white;
+}  
+
+
+
+
+
+
+
